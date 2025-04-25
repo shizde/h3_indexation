@@ -1,5 +1,4 @@
 # h3_indexation
-
 Step-by-Step Guide to Implementing H3 Indexing for Geospatial Data
 
 ## Introduction
